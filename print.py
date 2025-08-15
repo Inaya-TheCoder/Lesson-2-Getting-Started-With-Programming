@@ -1,0 +1,5 @@
+print("hello")
+print(3)
+print("hello", 4)
+print("nice to meet you\n")
+print("have a good day", end = "byeee")
